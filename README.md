@@ -1,15 +1,15 @@
-### Hi there 👋, my name is Arturs
 
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, My name is Vishwesh
+#### I am a 2nd year Business Analytics and Data Science Student at Oklahoma State University
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+- 🗣 Languages: Python ❤️ - Bash 💔 - Hindi 🍼 - English 🇺🇸 - Gujarati 
+- 🔭 I’m currently working on finding optimal models for predicting resident transfers for undergraduate housing at Oklahoma State, all ideas are welcome :) 
+- 👯 I’m looking to collaborate on any interesting NLP projects 
+- 📫 How to reach me: Email: vishwesh.purohit@okstate.edu  
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vishwesh-purohit/)  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vishweshpurohit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vishwesh-purohit/)  
 
 
 
