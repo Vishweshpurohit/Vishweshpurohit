@@ -2,7 +2,7 @@
 ### Hi there 👋, My name is Vishwesh
 #### I am a 2nd year Business Analytics and Data Science Student at Oklahoma State University
 
-- 🗣 Languages: Python ❤️ - Bash 💔 - Hindi 🍼 - English 🇺🇸 - Gujarati 
+- 🗣 Languages: Python ❤️ - C++ 💔 - Hindi 🍼 - English 🇺🇸 - Gujarati 
 - 🔭 I’m currently working on finding optimal models for predicting resident transfers for undergraduate housing at Oklahoma State, all ideas are welcome :) 
 - 👯 I’m looking to collaborate on any interesting NLP projects 
 - 📫 How to reach me: Email: vishwesh.purohit@okstate.edu  
