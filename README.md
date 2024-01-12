@@ -1,5 +1,8 @@
 ### Hi there 👋
 git clone https://github.com/Vishweshpurohit/github-profile-readme-generator.git
+cd github-profile-readme-generator
+npm install
+npm start
 <!--
 **Vishweshpurohit/Vishweshpurohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
