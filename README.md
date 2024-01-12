@@ -5,9 +5,6 @@
 - 🔭 I’m currently working on finding optimal models for predicting resident transfers for undergraduate housing at Oklahoma State, all ideas are welcome :) 
 - 👯 I’m looking to collaborate on any interesting NLP projects 
 - 📫 How to reach me: Email: vishwesh.purohit@okstate.edu  
-- ⚡ Fun fact: I have travelled to  
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vishwesh-purohit/)  
 
 
