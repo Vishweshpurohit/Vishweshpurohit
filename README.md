@@ -1,7 +1,5 @@
 ### Hi there 👋, My name is Vishwesh
 #### I am a 2nd year Business Analytics and Data Science Student at Oklahoma State University
-![I am a 2nd year Business Analytics and Data Science Student at Oklahoma State University](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 
 - 🔭 I’m currently working on finding optimal models for predicting resident transfers for undergraduate housing at Oklahoma State, all ideas are welcome :) 
 
