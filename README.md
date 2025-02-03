@@ -1,6 +1,6 @@
 
 ### Hi there 👋, My name is Vishwesh
-#### I am Data proffesional with 4+ years of experience in Marketing, Sales, Supply Chain and Retail industries.
+#### I am Data professional with 4+ years of experience in Marketing, Sales, Supply Chain and Retail industries.
 
 - 🗣 Languages: SQL ❤️ - Hindi - English 🇺🇸 - Gujarati
   
