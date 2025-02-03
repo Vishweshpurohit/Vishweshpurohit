@@ -1,8 +1,8 @@
 
 ### Hi there 👋, My name is Vishwesh
-#### I am a 2nd year Business Analytics and Data Science Student at Oklahoma State University 
+#### I am Data proffesional with 4+ years of experience in Marketing, Sales, Supply Chain and Retail industries.
 
-- 🗣 Languages: Python ❤️ - C++ 💔 - Hindi 🍼 - English 🇺🇸 - Gujarati
+- 🗣 Languages: SQL ❤️ - Hindi - English 🇺🇸 - Gujarati
   
 - 🔭 I’m currently working on presenting a project at the SWACUHO and SEDSI conference, it is on finding optimal models for predicting resident transfers for undergraduate housing at Oklahoma State, im trying to add in as many new parameters as possible all ideas and approaches are welcome :)
   
